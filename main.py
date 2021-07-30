@@ -5,7 +5,7 @@ import requests
 import threading
 
 
-token = 'token bot'
+token = '1930834520:AAEBeg-Ck_rTxg-0pivcveDiSzFkNWGABDY'
 bot = telepot.Bot(token)
 
 sort = {}
